@@ -4,5 +4,5 @@ pandas
 seaborn
 tensorflow
 keras
-opencv-python
+opencv-python-headless
 streamlit
